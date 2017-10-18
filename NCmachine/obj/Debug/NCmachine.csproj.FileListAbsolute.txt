@@ -1,0 +1,90 @@
+c:\users\piotrek\documents\visual studio 2013\Projects\NCmachine\NCmachine\bin\Debug\NCmachine.exe.config
+c:\users\piotrek\documents\visual studio 2013\Projects\NCmachine\NCmachine\bin\Debug\NCmachine.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\NCmachine\NCmachine\bin\Debug\NCmachine.pdb
+c:\users\piotrek\documents\visual studio 2013\Projects\NCmachine\NCmachine\obj\Debug\NCmachine.csprojResolveAssemblyReference.cache
+c:\users\piotrek\documents\visual studio 2013\Projects\NCmachine\NCmachine\obj\Debug\NCmachine.Properties.Resources.resources
+c:\users\piotrek\documents\visual studio 2013\Projects\NCmachine\NCmachine\obj\Debug\NCmachine.csproj.GenerateResource.Cache
+c:\users\piotrek\documents\visual studio 2013\Projects\NCmachine\NCmachine\obj\Debug\NCmachine.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\NCmachine\NCmachine\obj\Debug\NCmachine.pdb
+c:\users\piotrek\documents\visual studio 2013\Projects\NCmachine\NCmachine\obj\Debug\NCmachine.NCmachine.resources
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NCmachine\NCmachine\bin\Debug\CRC16CLASS.cs
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\NCmachine.exe.config
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.exe
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.pdb
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\MyLocalDatabase.mdf
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\CRC16CLASS.cs
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\NCmachine.exe
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\NCmachine.pdb
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.csprojResolveAssemblyReference.cache
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.Properties.Resources.resources
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.csproj.GenerateResource.Cache
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.EdycjaBazyForm.resources
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\BazaParametrow.mdf
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\BazaParametrow_log.ldf
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.NC.resources
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\NCmachine.exe.config
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.exe
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.pdb
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\BazaParametrow.mdf
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\BazaParametrow_log.ldf
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\CRC16CLASS.cs
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\NCmachine.exe
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\NCmachine.pdb
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.EdycjaBazyForm.resources
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.NC.resources
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.Properties.Resources.resources
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.csproj.GenerateResource.Cache
+C:\Users\Krzysiek\Desktop\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\NCmachine.exe.config
+C:\Users\Krzysiek\Desktop\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.exe
+C:\Users\Krzysiek\Desktop\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.pdb
+C:\Users\Krzysiek\Desktop\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\BazaParametrow.mdf
+C:\Users\Krzysiek\Desktop\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\BazaParametrow_log.ldf
+C:\Users\Krzysiek\Desktop\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\CRC16CLASS.cs
+C:\Users\Krzysiek\Desktop\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\NCmachine.exe
+C:\Users\Krzysiek\Desktop\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\NCmachine.pdb
+C:\Users\Krzysiek\Desktop\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.csprojResolveAssemblyReference.cache
+C:\Users\Krzysiek\Desktop\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.EdycjaBazyForm.resources
+C:\Users\Krzysiek\Desktop\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.NC.resources
+C:\Users\Krzysiek\Desktop\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.Properties.Resources.resources
+C:\Users\Krzysiek\Desktop\NC z Bazą\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.csproj.GenerateResource.Cache
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NC z Bazą 03.02.15\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\NCmachine.exe.config
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NC z Bazą 03.02.15\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.exe
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NC z Bazą 03.02.15\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.pdb
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NC z Bazą 03.02.15\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.csprojResolveAssemblyReference.cache
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NC z Bazą 03.02.15\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.EdycjaBazyForm.resources
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NC z Bazą 03.02.15\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.NC.resources
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NC z Bazą 03.02.15\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.Properties.Resources.resources
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NC z Bazą 03.02.15\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.csproj.GenerateResource.Cache
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NC z Bazą 03.02.15\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\BazaParametrow.mdf
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NC z Bazą 03.02.15\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\BazaParametrow_log.ldf
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NC z Bazą 03.02.15\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\CRC16CLASS.cs
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NC z Bazą 03.02.15\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\NCmachine.exe
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NC z Bazą 03.02.15\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\NCmachine.pdb
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\NCmachine.exe.config
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.exe
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.pdb
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\BazaParametrow.mdf
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\BazaParametrow_log.ldf
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\CRC16CLASS.cs
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\NCmachine.exe
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\NCmachine.pdb
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.EdycjaBazyForm.resources
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.NC.resources
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.Properties.Resources.resources
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.csproj.GenerateResource.Cache
+C:\Users\barte\Documents\Studia\AiR sm. 3 - materialy krzys\mater\krzys\IV semestr\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\BazaParametrow.mdf
+C:\Users\barte\Documents\Studia\AiR sm. 3 - materialy krzys\mater\krzys\IV semestr\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\BazaParametrow_log.ldf
+C:\Users\barte\Documents\Studia\AiR sm. 3 - materialy krzys\mater\krzys\IV semestr\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\CRC16CLASS.cs
+C:\Users\barte\Documents\Studia\AiR sm. 3 - materialy krzys\mater\krzys\IV semestr\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\NCmachine.exe.config
+C:\Users\barte\Documents\Studia\AiR sm. 3 - materialy krzys\mater\krzys\IV semestr\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\NCmachine.exe
+C:\Users\barte\Documents\Studia\AiR sm. 3 - materialy krzys\mater\krzys\IV semestr\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Debug\NCmachine.pdb
+C:\Users\barte\Documents\Studia\AiR sm. 3 - materialy krzys\mater\krzys\IV semestr\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.csprojResolveAssemblyReference.cache
+C:\Users\barte\Documents\Studia\AiR sm. 3 - materialy krzys\mater\krzys\IV semestr\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.EdycjaBazyForm.resources
+C:\Users\barte\Documents\Studia\AiR sm. 3 - materialy krzys\mater\krzys\IV semestr\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.NC.resources
+C:\Users\barte\Documents\Studia\AiR sm. 3 - materialy krzys\mater\krzys\IV semestr\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.Properties.Resources.resources
+C:\Users\barte\Documents\Studia\AiR sm. 3 - materialy krzys\mater\krzys\IV semestr\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.csproj.GenerateResource.Cache
+C:\Users\barte\Documents\Studia\AiR sm. 3 - materialy krzys\mater\krzys\IV semestr\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Studia\AiR sm. 3 - materialy krzys\mater\krzys\IV semestr\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.exe
+C:\Users\barte\Documents\Studia\AiR sm. 3 - materialy krzys\mater\krzys\IV semestr\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Debug\NCmachine.pdb

@@ -1,0 +1,13 @@
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Release\NCmachine.exe.config
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Release\MyLocalDatabase.mdf
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Release\MyLocalDatabase_log.ldf
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Release\CRC16CLASS.cs
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Release\NCmachine.exe
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\bin\Release\NCmachine.pdb
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Release\NCmachine.EdycjaBazyForm.resources
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Release\NCmachine.NCmachine.resources
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Release\NCmachine.Properties.Resources.resources
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Release\NCmachine.csproj.GenerateResource.Cache
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Release\NCmachine.exe
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Release\NCmachine.pdb
+D:\Users\Krzysiek\Dysk Google\Laserowa Dzida\Software\NCmachine 28.11.14 - Kopia z baza danych\NCmachine\obj\Release\NCmachine.csprojResolveAssemblyReference.cache
